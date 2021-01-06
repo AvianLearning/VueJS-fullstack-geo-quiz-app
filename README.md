@@ -37,14 +37,19 @@ $ cd server
 $ npm install
 
 Seed the database.  Within the server folder:
+```
 $ npm run seeds
+```
 
 Run express (leave running in a terminal window).  Within the server folder:
+```
 $ npm run server:dev
+```
 
 Run Vue development environment (leave running in a terminal window).  Within client folder:
+```
 $ npm run serve
-
+```
 
 ## API, Libraries, Resources
 - [vue-svg-map](https://www.npmjs.com/package/vue-svg-map)
